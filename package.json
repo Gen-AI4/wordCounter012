@@ -1,0 +1,18 @@
+{
+  "name": "wordcounter012",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "wc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@inquirer/input": "^2.2.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
